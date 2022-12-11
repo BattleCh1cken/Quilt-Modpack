@@ -15,7 +15,6 @@
 
         devShell = with pkgs; mkShell {
           shellHook = ''
-            packwiz serve
           '';
           buildInputs = with pkgs; [
             gnumake

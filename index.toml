@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".direnv/flake-profile"
-hash = "11ce865d3453d815fac40941f255e88ae52b56057c2080265356f64b6aede876"
+hash = "a509c1d41b183057c5da0a75a39bcec8f86ec2033712c8378652442e01392101"
 
 [[files]]
 file = ".direnv/flake-profile-1-link"
 hash = "11ce865d3453d815fac40941f255e88ae52b56057c2080265356f64b6aede876"
+
+[[files]]
+file = ".direnv/flake-profile-2-link"
+hash = "a509c1d41b183057c5da0a75a39bcec8f86ec2033712c8378652442e01392101"
 
 [[files]]
 file = ".envrc"
@@ -54,7 +58,7 @@ hash = "7b35aae398e7c74e25e8054d1a920cc0973bccaf2d48114524fbad0a480dabf2"
 
 [[files]]
 file = "flake.nix"
-hash = "fc716f5a474765d024a0d1981423ec16b19a1e110573dbf8802afc9aa88a74a6"
+hash = "bd42a57d7a0eaf645770cd594b1623173522e325228641fe57744a7bf3aa3a60"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -67,13 +71,28 @@ hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "1d1cf37c19da86e8b8e7b2f46ad95a4e11e7fab6d7967030341cbb00c61b6536"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d7e323c56fe38f5cbab8e6ebcfb157e7f42c37b9acbaf474f1d21766802157f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "a06f2162ad95e39709d54c0fb096860ee83f87bcf5f35db238e280f4318501be"
 metafile = true
 
 [[files]]
@@ -119,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e"
 metafile = true
 
 [[files]]
@@ -294,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "bb8ddf335a6fd18b3b408fa2a5a8828be77f52ffb5bac9c8240a3d278a61a30a"
 metafile = true
 
 [[files]]
