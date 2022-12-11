@@ -91,11 +91,6 @@ hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
-file = "mods/biome-makeover.pw.toml"
-hash = "a06f2162ad95e39709d54c0fb096860ee83f87bcf5f35db238e280f4318501be"
-metafile = true
-
-[[files]]
 file = "mods/blast-travel.pw.toml"
 hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
 metafile = true
