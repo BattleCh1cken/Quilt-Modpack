@@ -57,8 +57,68 @@ file = "flake.nix"
 hash = "fc716f5a474765d024a0d1981423ec16b19a1e110573dbf8802afc9aa88a74a6"
 
 [[files]]
+file = "mods/addadd.pw.toml"
+hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
+file = "mods/blast-travel.pw.toml"
+hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/conjuring.pw.toml"
+hash = "91bc23a1e8958b1946acadf7111ac370a31a308f669cc814f99aeeb271626441"
+metafile = true
+
+[[files]]
+file = "mods/create-crystal-clear-fabric.pw.toml"
+hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
 metafile = true
 
 [[files]]
@@ -77,6 +137,26 @@ hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
 metafile = true
@@ -87,8 +167,33 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d3aeba8c78ad473c8064334c2b4d1c52cfc514640b3c03a00b66e0552f21967"
+metafile = true
+
+[[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "ccb9fe34df1191907006d9d80adc3dc645cf9c88a2f1351623ac6024c4ad2c77"
+metafile = true
+
+[[files]]
+file = "mods/incantationem.pw.toml"
+hash = "465cbba73897867563e3145c8f76575c58745dbdae5577a948d481fd4805d0e1"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
 metafile = true
 
 [[files]]
@@ -107,6 +212,16 @@ hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "056d867e226a65d47a019541865ca85a2123979c042faa6f63f9d4d5efa8799b"
+metafile = true
+
+[[files]]
+file = "mods/malum-quilt.pw.toml"
+hash = "4414a7bdb83f3f1bc313baf0b1893bf0ec716e2efdf738e4b9977b7ed792b993"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
@@ -117,8 +232,28 @@ hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
+metafile = true
+
+[[files]]
+file = "mods/scout.pw.toml"
+hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
 metafile = true
 
 [[files]]
@@ -137,8 +272,28 @@ hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "e50fbf20fc8c0a816f3325959a1ceab64c160b0b3bcc83f701ffdbfa771dad4b"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "6b056c1e695fd8d088c8a373e071953815d7b52fe1087baa44565d3093b111e1"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "64a7d2034f46aa465709d7af2ff7771f632d03516d6f2897a942fd5fd8145fb2"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
 metafile = true
 
 [[files]]
