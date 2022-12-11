@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".direnv/flake-profile"
-hash = "a509c1d41b183057c5da0a75a39bcec8f86ec2033712c8378652442e01392101"
-
-[[files]]
-file = ".direnv/flake-profile-1-link"
-hash = "11ce865d3453d815fac40941f255e88ae52b56057c2080265356f64b6aede876"
-
-[[files]]
-file = ".direnv/flake-profile-2-link"
-hash = "a509c1d41b183057c5da0a75a39bcec8f86ec2033712c8378652442e01392101"
-
-[[files]]
-file = ".envrc"
-hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
-
-[[files]]
-file = "Makefile"
-hash = "dbe53f5c73d217d798ee64635a00920e1e636791b561667aad13fad7653b880a"
-
-[[files]]
 file = "config/c2me.toml"
 hash = "694a9224e352a6f7c769a1a95b95eca1ae3151c35bc6d0992cee813214e3b8b4"
 
@@ -51,14 +31,6 @@ hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
 [[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
-
-[[files]]
-file = "flake.lock"
-hash = "7b35aae398e7c74e25e8054d1a920cc0973bccaf2d48114524fbad0a480dabf2"
-
-[[files]]
-file = "flake.nix"
-hash = "bd42a57d7a0eaf645770cd594b1623173522e325228641fe57744a7bf3aa3a60"
 
 [[files]]
 file = "mods/addadd.pw.toml"
